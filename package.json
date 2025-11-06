@@ -1,0 +1,25 @@
+{
+  "name": "backend_2",
+  "version": "1.0.0",
+  "description": "Backend project for CT449 - Phat trien ung dung Web",
+  "keywords": [],
+  "homepage": "https://github.com/Roseblink0211/B2207572_MaiTranNgocTran_Backend2#readme",
+  "bugs": {
+    "url": "https://github.com/Roseblink0211/B2207572_MaiTranNgocTran_Backend2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roseblink0211/B2207572_MaiTranNgocTran_Backend2.git"
+  },
+  "license": "ISC",
+  "author": "Mai Tran Ngoc Tran",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
