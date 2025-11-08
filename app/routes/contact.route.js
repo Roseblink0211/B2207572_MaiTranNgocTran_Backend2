@@ -16,5 +16,6 @@ router
   .get(contacts.findOne) // Lấy contact theo id
   .put(contacts.update) // Cập nhật contact theo id
   .delete(contacts.delete); // Xóa contact theo id
+router.route("/:id").get(contacts.findOne);
 
 module.exports = router;
